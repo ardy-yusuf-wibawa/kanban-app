@@ -42,13 +42,13 @@ A dynamic and interactive Kanban Board application built with vanilla JavaScript
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/kanban-board.git
+   git clone https://github.com/ardy-yusuf-wibawa/kanban-app.git
    ```
 
 2. **Navigate to the Project Directory:**
 
    ```bash
-   cd kanban-board
+   cd kanban-app
    ```
 
 3. **Install Dependencies:**
@@ -113,8 +113,8 @@ kanban-board/
 │
 ├── assets/
 │   ├── edit.svg
-│   ├── trash.svg
-│   └── screenshot.png
+│   └── trash.svg
+│   
 │
 ├── src/
 │   └── input.css
